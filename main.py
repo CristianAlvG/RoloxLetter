@@ -13,6 +13,12 @@ with col4:
         carta = file.read()
     st.info(carta)
 
+    st.markdown('''
+    <a href="https://www.flaticon.com/free-icons/child" title="child icons" target="_blank">Child icons created by Freepik - Flaticon</a>
+    ''', unsafe_allow_html=True)
+
+
+
 
 
 
